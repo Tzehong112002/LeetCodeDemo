@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="121_BestTimetoBuyandSellStock.cs" />
     <Compile Include="169_MajorityElement.cs" />
     <Compile Include="26_RemoveDuplicatesfromSortedArray.cs" />
     <Compile Include="27_Remove Element.cs" />
