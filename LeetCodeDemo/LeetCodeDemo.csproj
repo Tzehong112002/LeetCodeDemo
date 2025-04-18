@@ -44,9 +44,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="121_BestTimetoBuyandSellStock.cs" />
+    <Compile Include="125_Valid Palindrome.cs" />
     <Compile Include="169_MajorityElement.cs" />
     <Compile Include="26_RemoveDuplicatesfromSortedArray.cs" />
     <Compile Include="27_Remove Element.cs" />
+    <Compile Include="392_IsSubsequence.cs" />
     <Compile Include="88_Merge Sorted Array.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
