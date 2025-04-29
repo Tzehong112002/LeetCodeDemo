@@ -9,20 +9,20 @@ namespace LeetCodeDemo
 {
     public class _80_RemoveDuplicatesfromSortedArrayII
     {
-        static void Main(string[] args)
-        {
-            int[] nums = { 1, 1, 1, 2, 2, 3 };
-            int [] nums2 = { 0,0,1,1,1,1,2,3,3 };
+        //static void Main(string[] args)
+        //{
+        //    int[] nums = { 1, 1, 1, 2, 2, 3 };
+        //    int [] nums2 = { 0,0,1,1,1,1,2,3,3 };
 
-            int k = RemoveDuplicates(nums);
+        //    int k = RemoveDuplicates(nums);
 
-            Console.WriteLine(k);
-            for (int i = 0; i < k; i++)
-            {
-                Console.Write(nums[i] + " ");
-            }
+        //    Console.WriteLine(k);
+        //    for (int i = 0; i < k; i++)
+        //    {
+        //        Console.Write(nums[i] + " ");
+        //    }
 
-        }
+        //}
         public static int RemoveDuplicates(int[] nums)
         {
             if (nums.Length <= 2)

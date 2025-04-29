@@ -45,6 +45,8 @@
   <ItemGroup>
     <Compile Include="121_BestTimetoBuyandSellStock.cs" />
     <Compile Include="125_Valid Palindrome.cs" />
+    <Compile Include="13_RomantoInteger.cs" />
+    <Compile Include="14_LongestCommonPrefix.cs" />
     <Compile Include="169_MajorityElement.cs" />
     <Compile Include="26_RemoveDuplicatesfromSortedArray.cs" />
     <Compile Include="27_Remove Element.cs" />
