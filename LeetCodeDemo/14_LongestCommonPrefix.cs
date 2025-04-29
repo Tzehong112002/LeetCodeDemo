@@ -9,14 +9,14 @@ namespace LeetCodeDemo
     public class _14_LongestCommonPrefix
     {
 
-        static void Main(string[] args)
-        {
-            string[] array1 = {"flower", "flow", "flight"};
+        //static void Main(string[] args)
+        //{
+        //    string[] array1 = {"flower", "flow", "flight"};
 
 
-            Console.WriteLine(LongestCommonPrefix(array1));
+        //    Console.WriteLine(LongestCommonPrefix(array1));
 
-        }
+        //}
 
         public static string LongestCommonPrefix(string[] strs)
         {
