@@ -9,14 +9,14 @@ namespace LeetCodeDemo
     public class _28_FindtheIndexoftheFirstOccurrenceinaString
     {
 
-        static void Main(string[] args)
-        {
+        //static void Main(string[] args)
+        //{
 
-            string haystack = "butbutsad";
-            string needla = "sad";
+        //    string haystack = "butbutsad";
+        //    string needla = "sad";
 
-            Console.WriteLine(StrStr(haystack, needla));
-        }
+        //    Console.WriteLine(StrStr(haystack, needla));
+        //}
 
         public static int StrStr(string haystack, string needle)
         {

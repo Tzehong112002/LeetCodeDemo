@@ -52,6 +52,7 @@
     <Compile Include="27_Remove Element.cs" />
     <Compile Include="28_FindtheIndexoftheFirstOccurrenceinaString.cs" />
     <Compile Include="392_IsSubsequence.cs" />
+    <Compile Include="58_LengthofLastWord.cs" />
     <Compile Include="80_RemoveDuplicatesfromSortedArrayII.cs" />
     <Compile Include="88_Merge Sorted Array.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
